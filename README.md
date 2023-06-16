@@ -1,4 +1,6 @@
-### Olá! 👋
+### Olá! ✨
+
+Perfil criado para disponibilizar dados do Tcc
 
 <!--
 **AriiCordeiro/AriiCordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
